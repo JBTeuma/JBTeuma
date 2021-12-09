@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jean-Baptiste TEUMA</h1>
+<h1 align="center">Hi 👋, I'm Jean-Baptiste TEUMA</h1>
 <h3 align="center">A french Full-stack Junior Developer from Le Wagon</h3>
 
 - 🌱 I’m currently learning **Ruby on rails, Javascript, SQL**
